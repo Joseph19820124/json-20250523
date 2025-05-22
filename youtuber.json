@@ -1,0 +1,117 @@
+{
+  "usernames": {
+    "username1": "AIsuperdomain",
+    "username2": "01coder30", 
+    "username3": "HC-AIChannel",
+    "username4": "LazyOffice2024",
+    "username5": "xiangyugongzuoliu",
+    "username6": "axtonliu",
+    "username7": "@laoshi_tec",
+    "username8": "@硬件茶谈",
+    "username9": "@bulianglin",
+    "username10": "@lingdujieshuo",
+    "username11": "@kejimeixue",
+    "username12": "@xiaomage-spring",
+    "username13": "@yupi-programmer",
+    "username14": "@programmercarl",
+    "username15": "@itheima",
+    "username16": "@atguigu"
+  },
+  "youtube_channels": {
+    "老石谈芯": {
+      "channel_id": "UC5mVFJf71Ax6TJZcbmTnilw",
+      "handle": "@laoshi_tec",
+      "channel_name": "老石谈芯 Shilicon Talk",
+      "channel_url": "https://www.youtube.com/@laoshi_tec",
+      "description": "专注半导体芯片技术分析，深度解读芯片行业发展",
+      "subscriber_count": "17.2万",
+      "specialty": "芯片工程、半导体技术、硬件分析",
+      "status": "verified"
+    },
+    "硬件茶谈": {
+      "channel_id": "UCYbH8CWlZkNgoE8EY0SoE3g",
+      "handle": "@硬件茶谈",
+      "channel_name": "硬件茶谈",
+      "channel_url": "https://www.youtube.com/@硬件茶谈",
+      "description": "硬件评测和技术分析，涵盖CPU、GPU等硬件产品",
+      "subscriber_count": "12.7万",
+      "specialty": "硬件评测、性能测试、产品分析",
+      "status": "verified"
+    },
+    "不良林": {
+      "channel_id": "UCbCCUH8S3yhlm7__rhxR2QQ",
+      "handle": "@bulianglin",
+      "channel_name": "不良林",
+      "channel_url": "https://www.youtube.com/@bulianglin",
+      "description": "网络技术专家，擅长用简单易懂的方式讲解复杂技术问题",
+      "specialty": "网络技术、科学上网、技术教程",
+      "status": "verified",
+      "warning": "仅供非中国大陆地区用户学习交流使用"
+    },
+    "零度解说": {
+      "channel_id": "UCvijahEyGtvMpmMHBu4FS2w",
+      "handle": "@lingdujieshuo",
+      "channel_name": "零度解说",
+      "channel_url": "https://www.youtube.com/@lingdujieshuo",
+      "description": "计算机网络技术科普，技术实力雄厚",
+      "subscriber_count": "100万",
+      "specialty": "计算机技术、软件分享、系统教程",
+      "status": "verified",
+      "upload_frequency": "每周3次"
+    },
+    "科技美学": {
+      "channel_id": "待确认",
+      "handle": "@kejimeixue",
+      "channel_name": "科技美学",
+      "channel_url": "https://www.youtube.com/@kejimeixue",
+      "description": "科技产品评测和技术趋势分析",
+      "specialty": "科技评测、产品分析、行业趋势",
+      "status": "推测"
+    },
+    "小马哥说Spring": {
+      "channel_id": "待确认",
+      "handle": "@xiaomage-spring",
+      "channel_name": "小马哥说Spring",
+      "channel_url": "https://www.youtube.com/@xiaomage-spring",
+      "description": "Java Spring框架技术教学",
+      "specialty": "Java开发、Spring框架、后端技术",
+      "status": "推测"
+    },
+    "程序员鱼皮": {
+      "channel_id": "待确认",
+      "handle": "@yupi-programmer",
+      "channel_name": "程序员鱼皮",
+      "channel_url": "https://www.youtube.com/@yupi-programmer",
+      "description": "编程技术分享，面试指导，职业规划",
+      "specialty": "编程教学、求职指导、项目实战",
+      "status": "推测"
+    },
+    "代码随想录": {
+      "channel_id": "待确认",
+      "handle": "@programmercarl",
+      "channel_name": "代码随想录",
+      "channel_url": "https://www.youtube.com/@programmercarl",
+      "description": "算法和数据结构教学，程序员面试指导",
+      "specialty": "算法教学、数据结构、面试刷题",
+      "status": "推测"
+    },
+    "黑马程序员": {
+      "channel_id": "待确认",
+      "handle": "@itheima",
+      "channel_name": "黑马程序员",
+      "channel_url": "https://www.youtube.com/@itheima",
+      "description": "知名编程教育机构，提供全栈技术教学",
+      "specialty": "编程培训、全栈开发、IT教育",
+      "status": "推测"
+    },
+    "尚硅谷": {
+      "channel_id": "待确认",
+      "handle": "@atguigu",
+      "channel_name": "尚硅谷",
+      "channel_url": "https://www.youtube.com/@atguigu",
+      "description": "专业IT技术培训，Java、前端、大数据等技术教学",
+      "specialty": "IT培训、Java开发、前端技术",
+      "status": "推测"
+    }
+  }
+}
